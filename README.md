@@ -23,7 +23,7 @@ https://docs.metaplex.com/
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ git clone https://github.com/cmkap/metaplex.git
 $ cd metaplex
 $ cd js
 $ yarn install
